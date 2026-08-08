@@ -41,5 +41,3 @@ Possible pairs are:
 (2, 3)
 (2, 4)
 (3, 4)
-
-=== Code Execution Successful ===
