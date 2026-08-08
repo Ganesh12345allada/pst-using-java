@@ -48,5 +48,3 @@ Enter the array elements:
 59
 34
 Maximum element = 59
-
-=== Code Execution Successful ===
