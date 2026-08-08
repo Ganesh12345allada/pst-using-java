@@ -2,8 +2,6 @@ task 5 pst
 
 program :
 
-
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -47,5 +45,3 @@ Enter the array elements:
 25
 Enter the value of k: 3
 The 3th smallest element is: 35
-
-=== Code Execution Successful ===
