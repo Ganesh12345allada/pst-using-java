@@ -23,9 +23,6 @@ public class PositiveNegativeZero {
     }
 }
 
+output:
 Enter a number: 15
 Positive
-
-=== Code Execution Successful ===
-output :
-
